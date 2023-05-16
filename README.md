@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFZ4hlfHhk/HJywAVjX96v7VY_xxxOsyw/view?utm_content=DAFZ4hlfHhk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![logo]([https://www.canva.com/design/DAFZ4hlfHhk/HJywAVjX96v7VY_xxxOsyw/view?utm_content=DAFZ4hlfHhk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://github.com/joshigolu08/joshigolu08/blob/main/2.png))
     <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A Passionate full-stack dev proficient in Angular, Node.js, Express, PHP, Laravel, Git, JavaScript, TypeScript, creating robust, scalable applications.from India</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F775604367065466878%2F&psig=AOvVaw2M25SZTKsoJRTregiq6bRj&ust=1684345680123000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC9mIez-v4CFQAAAAAdAAAAABAT" alt="coding" width="400" height="400">
