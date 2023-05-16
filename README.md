@@ -2,8 +2,7 @@
 ![logo](https://github.com/joshigolu08/joshigolu08/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A Passionate full-stack dev proficient in Angular, Node.js, Express, PHP, Laravel, Git, JavaScript, TypeScript, creating robust, scalable applications.from India</h3>
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po1iob03z69xrvlqn3p1gsfptgjn1me6s7xrjzb8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" width="400" height="400">
-
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po1iob03z69xrvlqn3p1gsfptgjn1me6s7xrjzb8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" width="400" height="400">
 - 🔭 I’m currently working on [aliensintheoffice](https://aliensintheoffice.com/)
 
 - 🌱 I’m currently learning **AWS, Doker, Kubernates**
